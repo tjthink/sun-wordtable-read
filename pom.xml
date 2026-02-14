@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
-		<apache-poi>3.9</apache-poi>
+		<apache-poi>3.17</apache-poi>
 	</properties>
 	<dependencies>
 		<dependency>
